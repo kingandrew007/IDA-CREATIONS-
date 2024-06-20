@@ -1,0 +1,84 @@
+/* OurWork.css */
+.ourwork-outer {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ourwork-outer strong {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.ourwork-outer p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.work-step {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.work-step.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.work-content {
+  flex: 1;
+  margin: 20px;
+}
+
+.work-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.work-image img {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+  border-radius: 8px;
+}
+
+.work-step h2, .work-step h5 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.work-step strong {
+  font-size: 16px;
+  color: #444;
+}
+
+/* Media Query for Mobile */
+@media (max-width: 768px) {
+  .work-step {
+    flex-direction: column;
+  }
+
+  .work-content {
+    order: 2;
+    margin-bottom: 0;
+  }
+
+  .work-image {
+    order: 1;
+    margin-bottom: 20px;
+  }
+}

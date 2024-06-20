@@ -1,0 +1,99 @@
+[
+  {
+    "serviceImage": "https://idacreations.com/img/cpu_888995.png",
+    "description":"Generative AI",
+    "slide_image":"https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_640.jpg" 
+  },
+  {
+    "serviceImage":"https://idacreations.com/img/3d-model_14189680.png" ,
+    "description":"3D Modeling/Rendering",
+    "slide_image": "https://imageio.forbes.com/specials-images/imageserve/633680e9f575e0775e377afd/0x0.jpg?format=jpg&crop=2808,1579,x191,y0,safe&height=900&width=1600&fit=bounds" 
+  },
+  {
+    "serviceImage": "https://idacreations.com/img/computer_10940047.png",
+    "description":"2D/3D Animation",
+    "slide_image": "https://3d-ace.com/wp-content/uploads/the_difference_between_3d_modeling_and_3d_rendering.jpg"  
+  },
+  {
+    "serviceImage": "https://idacreations.com/img/workplace_8170939.png",
+    "description":"Motion Graphics",
+    "slide_image":   
+    "https://www.reallusion.com/cartoon-animator/includes/images/converter/3D-motion-to-2D.jpg"
+  }, 
+  {
+    "serviceImage": 
+    "https://idacreations.com/img/visual-effect_3879988.png" ,
+    "description":"VFX",
+    "slide_image":"https://cubicleninjas.com/wp-content/uploads/2019/09/motion-graphics-examples.jpg" 
+   
+  },
+  {
+    "serviceImage": 
+    "https://idacreations.com/img/virtual-reality_1377790.png" ,
+    "description":"AR/VR/MR/XR",
+    "slide_image":   
+    "https://i.ytimg.com/vi/eL0E_07UqeQ/maxresdefault.jpg" 
+    
+   
+  },
+  {
+    "serviceImage": "https://idacreations.com/img/studio_9200070.png" ,
+    "description":"Virtual Production",
+    "slide_image": "https://s.studiobinder.com/wp-content/uploads/2023/02/What-is-Virtual-Production-Virtual-Film-Production.png"  
+    
+   
+  },
+  {
+    "serviceImage": "https://idacreations.com/img/production_13136249.png",
+    "description":  "CG" ,
+    "slide_image": "https://images.squarespace-cdn.com/content/v1/54851541e4b0fb60932ad015/1496645800597-N02J164ZYAE4X4PJZTKY/image-asset.png"
+  
+    
+   
+  },
+  {
+    "serviceImage": 
+    "https://idacreations.com/img/ux-design_7889802.png" ,
+    "description": "UI/UX",
+    "slide_image": "https://community.nasscom.in/sites/default/files/media/images/What%20is%20UIUX%20Transformation%20and%20How%20Does%20it%20Benefit%20Businesses-04_0.jpg" 
+  
+    
+   
+  },
+  {
+    "serviceImage":  "https://idacreations.com/img/team_2083290.png" ,
+    "description":  "Academic Alliances",
+    "slide_image": "https://community.nasscom.in/sites/default/files/media/images/What%20is%20UIUX%20Transformation%20and%20How%20Does%20it%20Benefit%20Businesses-04_0.jpg" 
+  
+    
+   
+  },
+  {
+    "serviceImage": "https://idacreations.com/img/film-editing_4035077.png" ,
+    "description": "Video Editing",
+    "slide_image": "https://community.nasscom.in/sites/default/files/media/images/What%20is%20UIUX%20Transformation%20and%20How%20Does%20it%20Benefit%20Businesses-04_0.jpg" 
+  
+    
+   
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
