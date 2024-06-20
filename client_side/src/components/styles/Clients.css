@@ -1,0 +1,41 @@
+/* styles/Clients.css */
+.clients-container {
+  text-align: center;
+  
+  padding: 20px;
+  color: white;
+}
+
+.clients-container h1 {
+  font-size: 36px;
+  color: rgb(254, 254, 147);
+}
+
+.clients-container p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.marquee-content {
+  display: inline-block;
+  animation: marquee 25s linear infinite;
+}
+
+.marquee-content img {
+  height: 100px; /* Adjust height as needed */
+  width: 100px; /* Ensure width matches height for a perfect circle */
+  border-radius: 50%; /* This makes the image circular */
+  margin: 0 15px;
+  display: inline-block;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
