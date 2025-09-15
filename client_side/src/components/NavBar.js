@@ -12,7 +12,7 @@ function NavBar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-      <Link to='/'><img src="https://idacreations.com/img/IDA.png" alt="Logo" className="navbar-logo" /></Link>  
+      <Link to='/'><img src="https://www.idacreations.com/static/media/IDA.54a2c355e8d86a6b6be8.png" alt="Logo" className="navbar-logo" /></Link>  
       </div>
       <button className="navbar-toggle" onClick={toggleNavbar}>
         <span className="navbar-toggle-icon">&#9776;</span>
