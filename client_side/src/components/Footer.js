@@ -52,15 +52,15 @@ function Footer() {
         <h3 style={{ color: "wheat" }}>Follow Us</h3>
         <div className="social-icons">
           <div className="icon">
-            <img src="https://idacreations.com/img/instagram.png" alt="Instagram" />
+            <img src="https://www.idacreations.com/static/media/instagram.e719d8b29f452a16302d.png" alt="Instagram" />
             <p>Insta Profile</p>
           </div>
           <div className="icon">
-            <img src="https://idacreations.com/img/email.png" alt="Email" />
+            <img src="https://www.idacreations.com/static/media/email.f3ae0201e01efff8428d.png" alt="Email" />
             <p>Send Enquiry</p>
           </div>
           <div className="icon">
-            <img src="https://idacreations.com/img/whatsapp.png" alt="Whatsapp" />
+            <img src="https://www.idacreations.com/static/media/whatsapp.c339ff504121f060e736.png" alt="Whatsapp" />
             <p>Whatsapp</p>
           </div>
         </div>

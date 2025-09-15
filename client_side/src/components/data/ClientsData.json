@@ -1,50 +1,39 @@
 [
   {
       "id": 1,
-      "img": "https://www.idacreations.com/img/logos/srays.jpg"
+      "img": "https://www.idacreations.com/static/media/Exatech.68a1202f8ca4f9f4133a.jpg"
   },
   {
       "id": 2,
-      "img": "https://www.idacreations.com/img/logos/vulturelines.jpg"
+      "img": "https://www.idacreations.com/static/media/bigeyeglobal.ffcfb39fda96bff83afe.jpg"
   },
   {
       "id": 3,
-      "img": "https://www.idacreations.com/img/logos/wowhr.jpg"
+      "img": "https://www.idacreations.com/static/media/bltzwork.e95c2f0b0e4420b7bfad.jpeg"
   },
   {
       "id": 4,
-      "img": "https://www.idacreations.com/img/logos/oneyes.jpg"
+      "img": "https://www.idacreations.com/static/media/commnet.9a4de8e2c6cd5951ba0a.jpeg"
   },
   {
       "id": 5,
-      "img": "https://www.idacreations.com/img/logos/Exatech.jpg"
+      "img": "https://www.idacreations.com/static/media/digitallyvibed.cfa9aad931aed3808eba.jpg"
   },
   {
       "id": 6,
-      "img": "https://www.idacreations.com/img/logos/1iiec.png"
+      "img": "https://www.idacreations.com/static/media/Exatech.68a1202f8ca4f9f4133a.jpg"
   },
   {
       "id": 7,
-      "img": "https://www.idacreations.com/img/logos/bigeyeglobal.jpg"
+      "img": "https://www.idacreations.com/static/media/wowhr.8e5252ed52101775b070.jpg"
   },
   {
       "id": 8,
-      "img": "https://www.idacreations.com/img/logos/bltzwork.jpeg"
+      "img": "https://www.idacreations.com/static/media/adcom.fcd205b0750acfaec71e.jpeg"
   },
   {
       "id": 9,
-      "img": "https://www.idacreations.com/img/logos/digitallyvibed.jpg"
-  },
-  {
-      "id": 10,
-      "img": "https://www.idacreations.com/img/logos/linessofttech.jpg"
-  },   {
-    "id": 11,
-    "img": "https://www.idacreations.com/img/logos/thozhil_img.jpg"
-},
-{
-    "id": 12,
-    "img": "https://www.idacreations.com/img/logos/Winwinweb.jpg"
-}
+      "img": "https://www.idacreations.com/static/media/bltzwork.e95c2f0b0e4420b7bfad.jpeg"
+  }
 
 ]

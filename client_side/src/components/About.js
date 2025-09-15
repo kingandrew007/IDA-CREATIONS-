@@ -23,7 +23,7 @@ function About() {
     <div id='about'>
       <main className="about-main">
         <div className="image-container">
-          <img src="https://idacreations.com/img/6650956%20copy.png" alt="boy" className="about-image" />
+          <img src="https://framerusercontent.com/images/e1T6KUiw6EmFuqYGVNvsYmZbcxY.png?scale-down-to=1024" alt="boy" className="about-image" />
         </div>
         <div className="content-container">
           <h3 className="header-text">IDA - AR, VR and MR Company in India</h3>

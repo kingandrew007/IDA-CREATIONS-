@@ -30,19 +30,25 @@ function Home() {
         <Slider {...settings} className="slider-container">
           <div className="image-container">
             <img 
-              src="https://idacreations.com/img/1_xKfrcrFty_-xaXcfUjOSKg.webp" 
+              src="https://www.idacreations.com/static/media/main_banner.34fb6932e1c8c78cc1c4.jpg" 
               alt="vr pic" 
               className="header-image main-image"
             />
           </div>
           <div className="image-container">
             <img 
-              src="https://idacreations.com/img/Vid.png" 
+              src="https://www.idacreations.com/static/media/cv.a41c910f8eafd46f9c1e.jpg" 
               alt="side image" 
               className="header-image side-image"
             />
           </div>
-          
+          <div className="image-container">
+            <img 
+              src="https://www.idacreations.com/static/media/v1.4bcd2233907a561826b7.jpg" 
+              alt="side image" 
+              className="header-image side-image"
+            />
+          </div>
         </Slider>
        
       </header>

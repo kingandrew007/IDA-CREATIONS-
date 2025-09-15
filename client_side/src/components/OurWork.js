@@ -45,13 +45,13 @@ function OurWork() {
           </strong>
         </div>
         <div className="work-image">
-          <img src="https://idacreations.com/img/7566.jpg" alt="Discussion" />
+          <img src="https://www.idacreations.com/static/media/u.2327d22a21ff2e6a5e11.gif" alt="Discussion" />
         </div>
       </div>
 
       <div className="work-step">
         <div className="work-image">
-          <img src="https://idacreations.com/img/3081627.jpg" alt="Ideate" />
+          <img src="https://www.idacreations.com/static/media/l.c3b7c068252511326576.gif" alt="Ideate" />
         </div>
         <div className="work-content">
           <h5 style={{ fontSize: '30px', color: 'rgb(254, 254, 147)' }} className="text-start">
@@ -73,7 +73,7 @@ function OurWork() {
           </strong>
         </div>
         <div className="work-image">
-          <img src="https://idacreations.com/img/Work_7.jpg" alt="Execution" />
+          <img src="https://www.idacreations.com/static/media/e.82dca1dddedfcf2a97c2.gif" alt="Execution" />
         </div>
       </div>
     </div>
